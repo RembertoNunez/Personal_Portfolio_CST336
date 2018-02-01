@@ -28,7 +28,7 @@ in html
         </header>
         <nav>
             <hr width ="50%" />
-            <a href="index.html" style="color:#098dfb">Home</a>
+            <a href="index.php" style="color:#098dfb">Home</a>
             <a href="about.html">About</a>
             <a href="contact.html">Contact</a>
         </nav>
